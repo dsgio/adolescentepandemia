@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+*{
+margin: 0px;
+padding: 0px;
+}
+h2,h3{
+	font-size: 40px;
+	font-family: 'cookie';
+	text-align:center ;
+}
+body{
+height: 2000px;
+background-color: #F4F1E1;
+font-size: 20px;
+}
+#cabecalho{
+background-color:#D0BCD5 ;
+padding: 10px 0px;
+}
+#logo{
+margin-left: 30px;
+float: left;
+}
+#titulo{
+font-family:'Cookie', sans-serif; 
+font-size:40px ;
+text-align: justify;
+}
+#link{
+height: 50px;
+background-color: #A499B3 ;
+font-size: 35px;
+}
+#link a{
+color: #1B1725;
+margin-left: 210px;
+text-decoration: none;
+font-family: 'Cookie', sans-serif;
+}
+#videos{
+	text-align: center;
+}
+.quadrados{
+width: 1000px;
+background-color: #A499B3;
+text-align: center;
+font-family: 'Cookie', sans-serif;
+font-size: 40px;
+padding: 20px;
+margin: 20px 250px;
+}
+.quadro{
+width: 900px;
+padding: 20px;
+border-radius: 10px;
+background-color: #D0BCD5;
+margin: 30px;
+font-size: 20px;
+text-align: justify;
+font-family: 'EB Garamond';
+}
+.quadro ol{
+	margin-left: 20px;
+}
+.quadro img{
+	text-align: center;
+	width: 300px ;
+	height:500px ;
+}
+.rodape{
+height: 80px;
+background-color:#A499B3;
+text-align: center;
+}
